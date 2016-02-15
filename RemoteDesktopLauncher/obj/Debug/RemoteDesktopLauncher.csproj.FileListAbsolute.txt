@@ -1,0 +1,14 @@
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\bin\Debug\RemoteDesktopLauncher.exe.config
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\bin\Debug\RemoteDesktopLauncher.exe
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\bin\Debug\RemoteDesktopLauncher.pdb
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\RemoteDesktopLauncher.csprojResolveAssemblyReference.cache
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\MainWindow.g.cs
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\App.g.cs
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\RemoteDesktopLauncher_MarkupCompile.cache
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\RemoteDesktopLauncher_MarkupCompile.lref
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\MainWindow.baml
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\RemoteDesktopLauncher.g.resources
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\RemoteDesktopLauncher.Properties.Resources.resources
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\RemoteDesktopLauncher.csproj.GenerateResource.Cache
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\RemoteDesktopLauncher.exe
+c:\users\luke\onedrive\documents\visual studio 2015\Projects\RemoteDesktopLauncher\RemoteDesktopLauncher\obj\Debug\RemoteDesktopLauncher.pdb
